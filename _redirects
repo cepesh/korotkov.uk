@@ -1,3 +1,4 @@
 # Redirect domain aliases to primary domain
 http://korotkov.co.uk/* http://korotkov.uk/:splat 301!
 http://blog.korotkov.co.uk/* http://korotkov.uk/:splat 301!
+http://korotkov.netlify.com/* http://korotkov.uk/:splat 301!

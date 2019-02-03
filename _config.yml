@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://korotkov.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cepesh
 github_username:  cepesh
+linkedin_username: korotkov
 
 # Build settings
 markdown: kramdown
@@ -29,7 +30,7 @@ plugins:
   - jekyll-feed
 include:
   - _redirects
-  
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
